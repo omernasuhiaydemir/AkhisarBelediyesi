@@ -1,0 +1,457 @@
+<resources>
+    <string name="app_name">hemlibra</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+------------------------------------------------------Least Wastage-Loading----------------------------------------------------------------------------
+
+    <string-array name="Least_Wastage_Loading_İlaç_Adı">
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_1</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_2</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_3</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_4</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_5</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_6</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_7</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_8</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_9</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_10</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_11</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_12</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_13</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_14</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_15</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_16</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_17</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_18</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_19</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_20</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_21</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_22</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_23</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_24</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_25</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_26</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_27</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_28</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_29</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_30</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_31</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_32</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_33</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_34</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_35</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_36</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_37</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_38</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_39</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_40</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_41</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_42</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_43</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_44</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_45</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_46</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_47</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_48</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_49</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_50</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_51</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_52</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_53</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_54</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_55</item>
+        <item>@string/Least_Wastage_Loading_İlaç_Adı_56</item>
+
+    </string-array>
+
+
+    <string name="Least_Wastage_Loading_İlaç_Adı_1">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_2">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_3">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_4">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_5">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_6">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_7">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_8">mavi</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_9">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_10">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_11">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_12">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_13">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_14">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_15">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_16">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_17">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_18">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_19">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_20">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_21">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_22">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_23">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_24">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_25">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_26">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_27">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_28">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_29">yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_30">yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_31">yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_32">yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_33">yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_34">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_35">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_36">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_37">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_38">pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_39">mavi_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_40">mavi_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_41">mavi_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_42">mavi_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_43">mavi_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_44">kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_45">kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_46">kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_47">kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_48">kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_49">pembe_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_50">pembe_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_51">pembe_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_52">pembe_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_53">pembe_yeşil</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_54">mavi_kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_55">mavi_kırmızı</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_56">mavi_kırmızı</string>
+
+
+
+
+    <string name="Least_Wastage_Loading_İlaç_Adı_200">mavi_pembe</string>
+    <string name="Least_Wastage_Loading_İlaç_Adı_300">mavi_pembe_yeşil</string>
+
+
+
+
+    <string-array name="Least_Wastage_Loading_VİAL">
+        <item>@string/Least_Wastage_Loading_VİAL_1</item>
+        <item>@string/Least_Wastage_Loading_VİAL_2</item>
+        <item>@string/Least_Wastage_Loading_VİAL_3</item>
+        <item>@string/Least_Wastage_Loading_VİAL_4</item>
+        <item>@string/Least_Wastage_Loading_VİAL_5</item>
+        <item>@string/Least_Wastage_Loading_VİAL_6</item>
+        <item>@string/Least_Wastage_Loading_VİAL_7</item>
+        <item>@string/Least_Wastage_Loading_VİAL_8</item>
+        <item>@string/Least_Wastage_Loading_VİAL_9</item>
+        <item>@string/Least_Wastage_Loading_VİAL_10</item>
+        <item>@string/Least_Wastage_Loading_VİAL_11</item>
+        <item>@string/Least_Wastage_Loading_VİAL_12</item>
+        <item>@string/Least_Wastage_Loading_VİAL_13</item>
+        <item>@string/Least_Wastage_Loading_VİAL_14</item>
+        <item>@string/Least_Wastage_Loading_VİAL_15</item>
+        <item>@string/Least_Wastage_Loading_VİAL_16</item>
+        <item>@string/Least_Wastage_Loading_VİAL_17</item>
+        <item>@string/Least_Wastage_Loading_VİAL_18</item>
+        <item>@string/Least_Wastage_Loading_VİAL_19</item>
+        <item>@string/Least_Wastage_Loading_VİAL_20</item>
+        <item>@string/Least_Wastage_Loading_VİAL_21</item>
+        <item>@string/Least_Wastage_Loading_VİAL_22</item>
+        <item>@string/Least_Wastage_Loading_VİAL_23</item>
+        <item>@string/Least_Wastage_Loading_VİAL_24</item>
+        <item>@string/Least_Wastage_Loading_VİAL_25</item>
+        <item>@string/Least_Wastage_Loading_VİAL_26</item>
+        <item>@string/Least_Wastage_Loading_VİAL_27</item>
+        <item>@string/Least_Wastage_Loading_VİAL_28</item>
+        <item>@string/Least_Wastage_Loading_VİAL_29</item>
+        <item>@string/Least_Wastage_Loading_VİAL_30</item>
+        <item>@string/Least_Wastage_Loading_VİAL_31</item>
+        <item>@string/Least_Wastage_Loading_VİAL_32</item>
+        <item>@string/Least_Wastage_Loading_VİAL_33</item>
+        <item>@string/Least_Wastage_Loading_VİAL_34</item>
+        <item>@string/Least_Wastage_Loading_VİAL_35</item>
+        <item>@string/Least_Wastage_Loading_VİAL_36</item>
+        <item>@string/Least_Wastage_Loading_VİAL_37</item>
+        <item>@string/Least_Wastage_Loading_VİAL_38</item>
+        <item>@string/Least_Wastage_Loading_VİAL_39</item>
+        <item>@string/Least_Wastage_Loading_VİAL_40</item>
+        <item>@string/Least_Wastage_Loading_VİAL_41</item>
+        <item>@string/Least_Wastage_Loading_VİAL_42</item>
+        <item>@string/Least_Wastage_Loading_VİAL_43</item>
+        <item>@string/Least_Wastage_Loading_VİAL_44</item>
+        <item>@string/Least_Wastage_Loading_VİAL_45</item>
+        <item>@string/Least_Wastage_Loading_VİAL_46</item>
+        <item>@string/Least_Wastage_Loading_VİAL_47</item>
+        <item>@string/Least_Wastage_Loading_VİAL_48</item>
+        <item>@string/Least_Wastage_Loading_VİAL_49</item>
+        <item>@string/Least_Wastage_Loading_VİAL_50</item>
+        <item>@string/Least_Wastage_Loading_VİAL_51</item>
+        <item>@string/Least_Wastage_Loading_VİAL_52</item>
+        <item>@string/Least_Wastage_Loading_VİAL_53</item>
+        <item>@string/Least_Wastage_Loading_VİAL_54</item>
+        <item>@string/Least_Wastage_Loading_VİAL_55</item>
+        <item>@string/Least_Wastage_Loading_VİAL_56</item>
+
+
+
+    </string-array>
+
+
+    <string name="Least_Wastage_Loading_VİAL_1">1</string>
+    <string name="Least_Wastage_Loading_VİAL_2">1</string>
+    <string name="Least_Wastage_Loading_VİAL_3">1</string>
+    <string name="Least_Wastage_Loading_VİAL_4">1</string>
+    <string name="Least_Wastage_Loading_VİAL_5">1</string>
+    <string name="Least_Wastage_Loading_VİAL_6">1</string>
+    <string name="Least_Wastage_Loading_VİAL_7">1</string>
+    <string name="Least_Wastage_Loading_VİAL_8">1</string>
+    <string name="Least_Wastage_Loading_VİAL_9">1</string>
+    <string name="Least_Wastage_Loading_VİAL_10">1</string>
+    <string name="Least_Wastage_Loading_VİAL_11">1</string>
+    <string name="Least_Wastage_Loading_VİAL_12">1</string>
+    <string name="Least_Wastage_Loading_VİAL_13">1</string>
+    <string name="Least_Wastage_Loading_VİAL_14">1</string>
+    <string name="Least_Wastage_Loading_VİAL_15">1</string>
+    <string name="Least_Wastage_Loading_VİAL_16">1</string>
+    <string name="Least_Wastage_Loading_VİAL_17">1</string>
+    <string name="Least_Wastage_Loading_VİAL_18">1</string>
+    <string name="Least_Wastage_Loading_VİAL_19">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_20">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_21">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_22">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_23">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_24">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_25">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_26">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_27">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_28">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_29">1</string>
+    <string name="Least_Wastage_Loading_VİAL_30">1</string>
+    <string name="Least_Wastage_Loading_VİAL_31">1</string>
+    <string name="Least_Wastage_Loading_VİAL_32">1</string>
+    <string name="Least_Wastage_Loading_VİAL_33">1</string>
+    <string name="Least_Wastage_Loading_VİAL_34">1</string>
+    <string name="Least_Wastage_Loading_VİAL_35">1</string>
+    <string name="Least_Wastage_Loading_VİAL_36">1</string>
+    <string name="Least_Wastage_Loading_VİAL_37">1</string>
+    <string name="Least_Wastage_Loading_VİAL_38">1</string>
+    <string name="Least_Wastage_Loading_VİAL_39">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_40">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_41">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_42">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_43">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_44">1</string>
+    <string name="Least_Wastage_Loading_VİAL_45">1</string>
+    <string name="Least_Wastage_Loading_VİAL_46">1</string>
+    <string name="Least_Wastage_Loading_VİAL_47">1</string>
+    <string name="Least_Wastage_Loading_VİAL_48">1</string>
+    <string name="Least_Wastage_Loading_VİAL_49">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_50">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_51">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_52">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_53">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_54">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_55">1-1</string>
+    <string name="Least_Wastage_Loading_VİAL_56">1-1</string>
+
+
+    <string-array name="Least_Wastage_Loading_VOLUME">
+        <item>@string/Least_Wastage_Loading_VOLUME_1</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_2</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_3</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_4</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_5</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_6</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_7</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_8</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_9</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_10</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_11</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_12</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_13</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_14</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_15</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_16</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_17</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_18</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_19</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_20</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_21</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_22</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_23</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_24</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_25</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_26</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_27</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_28</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_29</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_30</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_31</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_32</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_33</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_34</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_35</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_36</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_37</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_38</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_39</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_40</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_41</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_42</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_43</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_44</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_45</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_46</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_47</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_48</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_49</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_50</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_51</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_52</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_53</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_54</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_55</item>
+        <item>@string/Least_Wastage_Loading_VOLUME_56</item>
+
+
+    </string-array>
+
+
+    <string name="Least_Wastage_Loading_VOLUME_1">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_2">0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_3">0,50</string>
+    <string name="Least_Wastage_Loading_VOLUME_4">0,60</string>
+    <string name="Least_Wastage_Loading_VOLUME_5">0,70</string>
+    <string name="Least_Wastage_Loading_VOLUME_6">0,80</string>
+    <string name="Least_Wastage_Loading_VOLUME_7">0,90</string>
+    <string name="Least_Wastage_Loading_VOLUME_8">1,00</string>
+    <string name="Least_Wastage_Loading_VOLUME_9">0,22</string>
+    <string name="Least_Wastage_Loading_VOLUME_10">0,24</string>
+    <string name="Least_Wastage_Loading_VOLUME_11">0,26</string>
+    <string name="Least_Wastage_Loading_VOLUME_12">0,28</string>
+    <string name="Least_Wastage_Loading_VOLUME_13">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_14">0,32</string>
+    <string name="Least_Wastage_Loading_VOLUME_15">0,34</string>
+    <string name="Least_Wastage_Loading_VOLUME_16">0,36</string>
+    <string name="Least_Wastage_Loading_VOLUME_17">0,38</string>
+    <string name="Least_Wastage_Loading_VOLUME_18">0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_19">0,10-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_20">0,20-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_21">0,30-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_22">0,40-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_23">0,50-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_24">0,60-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_25">0,70-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_26">0,80-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_27">0,90-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_28">1,00-0,40</string>
+    <string name="Least_Wastage_Loading_VOLUME_29">0,62</string>
+    <string name="Least_Wastage_Loading_VOLUME_30">0,64</string>
+    <string name="Least_Wastage_Loading_VOLUME_31">0,66</string>
+
+
+
+
+    <string name="Least_Wastage_Loading_VOLUME_32">0,68</string>
+    <string name="Least_Wastage_Loading_VOLUME_33">0,70</string>
+    <string name="Least_Wastage_Loading_VOLUME_34">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_35">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_36">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_37">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_38">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_39">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_40">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_41">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_42">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_43">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_44">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_45">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_46">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_47">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_48">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_49">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_50">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_51">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_52">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_53">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_54">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_55">0,30</string>
+    <string name="Least_Wastage_Loading_VOLUME_56">0,30</string>
+
+
+    <string name="Least_Wastage_Loading_VOLUME_200">0,90-0,80</string>
+    <string name="Least_Wastage_Loading_VOLUME_300">0,60-0,40-0,70</string>
+
+
+
+    <string-array name="Least_Wastage_Loading_TOTAL_VOLUME">
+        <item>@string/Least_Wastage_Loading_TOTAL_VOLUME_1</item>
+        <item>@string/Least_Wastage_Loading_TOTAL_VOLUME_2</item>
+        <item>@string/Least_Wastage_Loading_TOTAL_VOLUME_3</item>
+
+    </string-array>
+
+
+    <string name="Least_Wastage_Loading_TOTAL_VOLUME_1">0,30</string>
+    <string name="Least_Wastage_Loading_TOTAL_VOLUME_2">0,50</string>
+    <string name="Least_Wastage_Loading_TOTAL_VOLUME_3">1,70</string>
+
+
+    <string-array name="Least_Wastage_Loading_1_ML_SYRİNGE">
+        <item>@string/Least_Wastage_Loading_1_ML_SYRİNGE_1</item>
+        <item>@string/Least_Wastage_Loading_1_ML_SYRİNGE_2</item>
+        <item>@string/Least_Wastage_Loading_1_ML_SYRİNGE_3</item>
+
+    </string-array>
+
+
+    <string name="Least_Wastage_Loading_1_ML_SYRİNGE_1">1</string>
+    <string name="Least_Wastage_Loading_1_ML_SYRİNGE_2">2</string>
+    <string name="Least_Wastage_Loading_1_ML_SYRİNGE_3">1</string>
+
+
+
+
+    <string-array name="Least_Wastage_Loading_2_ML_SYRİNGE">
+        <item>@string/Least_Wastage_Loading_2_ML_SYRİNGE_1</item>
+        <item>@string/Least_Wastage_Loading_2_ML_SYRİNGE_2</item>
+        <item>@string/Least_Wastage_Loading_2_ML_SYRİNGE_3</item>
+
+    </string-array>
+
+
+    <string name="Least_Wastage_Loading_2_ML_SYRİNGE_1">0</string>
+    <string name="Least_Wastage_Loading_2_ML_SYRİNGE_2">0</string>
+    <string name="Least_Wastage_Loading_2_ML_SYRİNGE_3">1</string>
+
+
+
+</resources>
